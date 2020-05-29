@@ -202,7 +202,15 @@ function autocomplete(inp, arr) {
 }
 
 /*An array containing all the city names in the world:*/
-var countries = ["Kabul","Colombo","Wuhan","Kathmandu","Yangon","Macau","Karachi","Bengaluru","Manila","Jakarta","Hanoi","Hong Kong","Kuala Lumpur","Bahamas","Taipei","Kyoto","Siem Reap","Bhopal","Shimla","Gwalior","Pune","Hyderabad","Chennai","Kolkata","Dhaka","Islamabad","Agra","Mumbai","Jaipur","New Delhi","Bristol","Nuremberg","Tampa","Kansas City","Milwaukee","Sacramento","Detroit","St. Louis","Shanghai","Columbus","Birmingham","San Antonio","Marseille","Warsaw","Raleigh","Rio de Janeiro","Sao Paulo","Edmonton","Luxembourg","Stuttgart","Florence","Lyon","Tel Aviv","Hamburg","Portland","Venice","Lisbon","Minneapolis","Perth","Saint Petersburg","Copenhagen","Atlanta","Brisbane","Philadelphia","Montreal","Stockholm","Austin","Orlando","Oslo","Doha","Denver","Brussels","Calgary","Abu Dhabi","Vienna","Melbourne","Vancouver","Istanbul","Dallas","Seattle","Dublin","Milan","Houston","Munich","Prague","Seoul","San Diego","Miami","Frankfurt","Las Vegas","Sydney","Berlin","Beijing","London","Paris","New York","Tokyo","Barcelona","Zurich","Washington DC","Toronto","San Jose","Boston","Rome","Los Angeles","Amsterdam","Madrid","San Francisco","Dubai","Singapore","Chicago","Moscow"];
+var countries = ["Goa","Kabul","Colombo","Wuhan","Kathmandu","Yangon","Macau","Karachi","Bengaluru","Manila","Jakarta",
+"Hong Kong","Kuala Lumpur","Bahamas","Taipei","Kyoto","Siem Reap","Bhopal","Shimla","Gwalior","Pune","Hyderabad","Chennai",
+	"Kolkata","Dhaka","Islamabad","Agra","Mumbai","Jaipur","New Delhi","Sydney","Berlin","Beijing","London","Paris",
+	"New York","Tokyo","Barcelona","Zurich","Washington DC","Toronto","San Jose","Boston","Rome","Los Angeles",
+	"Amsterdam","Madrid","San Francisco","Dubai","Singapore","Chicago","Moscow","Delhi NCR","Patna","Delhi","Bristol",
+	"Tampa","Kansas City","Sacramento","Detroit","Saint Louis","Shanghai","Columbus","Birmingham","San Antonio",
+	"Rio de Janeiro","Edmonton","Copenhagen","Atlanta","Brisbane","Philadelphia","Montreal","Austin","Orlando",
+	"Oslo","Doha","Denver","Brussels","Calgary","Abu Dhabi","Vienna","Melbourne","Vancouver","Istanbul","Dallas",
+	"Seattle","Dublin","Milan","Houston","Munich","Prague","Seoul","San Diego","Miami","Frankfurt","Las Vegas"];
 
 /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
 autocomplete(document.getElementById("myInput"), countries);
