@@ -24,8 +24,7 @@
 `index->user||index->failure`      
 `failure->user`      
 `user->index||user->weathersearch`       
-
-![image](https://github.com/rohitshakya/Web-Project/blob/master/v3.0%20Weather%20forecasting%20using%20curl%20API/weather.PNG)  
+  
 
   
   

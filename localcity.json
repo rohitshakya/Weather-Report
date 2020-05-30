@@ -1,4 +1,5 @@
-{"Ziro":1252668
+{
+"Ziro":1252668
 ,"Zaidpur":1252698
 ,"Zafarabad":1252702
 ,"Yerandwane":1252736
@@ -9,7 +10,9 @@
 ,"Yarada":1252783
 ,"Yamunanagar":1252797
 ,"Yadgir":1252822
-,"WestBengal":1252881
+,"West Bengal":1252881
+,"Bengaluru":1277333
+,"Bangalore":1277333
 ,"Wellington":1252887
 ,"Washim":1252908
 ,"Warora":1252925
@@ -45,6 +48,7 @@
 ,"Vasai":1253372
 ,"Vartej":1253381
 ,"Varca":1253401
+,"Odisha":1261029
 ,"Varanasi":1253405
 ,"Vaniyambadi":1253437
 ,"Vandalur":1253454
@@ -58,7 +62,7 @@
 ,"Vadippatti":1253579
 ,"VadakkuValliyur":1253605
 ,"uttukkuli":1253621
-,"UttarPradesh":1253626
+,"Uttar Pradesh":1253626
 ,"Uttamapalaiyam":1253635
 ,"Utran":1253640
 ,"Usehat":1253673
@@ -92,7 +96,11 @@
 ,"Tughlakabad":1254129
 ,"Tuensang":1254133
 ,"Thiruvananthapuram":1254163
+,"Gurgaon":1270642
+,"Gurugram":1270642
 ,"Trimulgherry":1254176
+,"Tiruppur":1254348
+,"Tripura":1254169
 ,"Thrissur":1254187
 ,"Tosham":1254214
 ,"Topchanchi":1254231
@@ -124,6 +132,7 @@
 ,"Thasra":1254624
 ,"ThannaMandi":1254647
 ,"Thanesar":1254657
+,"Thane":2636057
 ,"Thandla":1254663
 ,"Than":1254675
 ,"Thakurdwara":1254695
@@ -134,18 +143,20 @@
 ,"Telhara":1254787
 ,"Tekkalakote":1254795
 ,"Tekanpur":1254798
+,"Kanpur":1267995
 ,"Teghra":1254813
 ,"Tattayyangarpettai":1254842
 ,"TarnTaran":1254868
 ,"Tarapur":1254900
 ,"Taranagar":1254908
 ,"Taramangalam":1254910
+,"Mangalore":1263780
 ,"Tarabha":1254925
 ,"Tanuku":1254953
 ,"Tankara":1254972
 ,"Tanda":1255023
 ,"Tanakpur":1255027
-,"StateofTamilNadu":1255053
+,"Tamil Nadu":1255053
 ,"TalwandiBhai":1255082
 ,"Talipparamba":1255121
 ,"Talgram":1255127
@@ -153,6 +164,7 @@
 ,"Talcher":1255143
 ,"Talaja":1255175
 ,"Taki":1255211
+,"Nagpur":1262180
 ,"Takhatgarh":1255213
 ,"Tadpatri":1255254
 ,"Tadepalle":1255265
@@ -212,6 +224,7 @@
 ,"Singur":1256124
 ,"Singoli":1256146
 ,"Singapperumalkovil":1256181
+,"Siliguri":1256525
 ,"Sindi":1256206
 ,"Sindgi":1256214
 ,"Simga":1256245
@@ -363,6 +376,8 @@
 ,"Rani":1258478
 ,"Rangia":1258492
 ,"Ranchi":1258526
+,"Jharkhand":1258526
+,"Chandigarh":1274744
 ,"Ranapur":1258537
 ,"Ramtek":1258553
 ,"Rampura":1258584
@@ -397,6 +412,7 @@
 ,"RaiwalaBara":1258942
 ,"Raisen":1258952
 ,"Raipur":1258972
+,"Chhattisgarh":1258972
 ,"Raikot":1258993
 ,"Raigarh":1259005
 ,"Raichur":1259012
@@ -418,7 +434,8 @@
 ,"Purna":1259177
 ,"PuraRaghunathpur":1259189
 ,"Pupri":1259210
-,"StateofPunjab":1259223
+,"Jabalpur":1269633
+,"Punjab":1259223
 ,"Pune":1259229
 ,"Punasa":1259239
 ,"Punahana":1259244
@@ -434,7 +451,7 @@
 ,"Poonamalle":1259400
 ,"Ponneri":1259409
 ,"Ponnampet":1259412
-,"UnionTerritoryofPuducherry":1259424
+,"Puducherry":1259424
 ,"Ponda":1259429
 ,"Pollachi":1259440
 ,"Pokaran":1259460
@@ -447,7 +464,7 @@
 ,"Pipar":1259608
 ,"Pinjaur":1259630
 ,"Pinahat":1259647
-,"Pilkhua":1259680
+,"Pilkhuwa":1259680
 ,"Pilibangan":1259688
 ,"Pihani":1259701
 ,"Phulpur":1259735
@@ -468,6 +485,7 @@
 ,"Pennagaram":1259916
 ,"Pendra":1259924
 ,"Pehowa":1259939
+,"Howrah":6692248
 ,"Peddapalli":1259961
 ,"Payyannur":1259994
 ,"Pawai":1260009
@@ -478,6 +496,7 @@
 ,"Patrasaer":1260064
 ,"Patnagarh":1260082
 ,"Patiali":1260104
+,"Patiala":1264728
 ,"Pathri":1260120
 ,"Patharia":1260129
 ,"Pathardi":1260135
@@ -492,6 +511,7 @@
 ,"Parola":1260274
 ,"Parnera":1260281
 ,"Parlakimidi":1260296
+,"Mizoram":1262963
 ,"Parichha":1260314
 ,"Parbhani":1260341
 ,"Paraspur":1260364
@@ -623,6 +643,7 @@
 ,"Nabinagar":1262318
 ,"Mysore":1262321
 ,"Muzaffarnagar":1262332
+,"Tiruchirappalli":1254388
 ,"Muttupet":1262346
 ,"Mussoorie":1262374
 ,"Mushabani":1262382
@@ -714,6 +735,7 @@
 ,"Mangalagiri":1263797
 ,"Mandya":1263814
 ,"Mandvi":1263826
+,"Manipur":1263706
 ,"Mandleshwar":1263850
 ,"Mandi":1263862
 ,"Mandawar":1263880
@@ -742,6 +764,7 @@
 ,"Majitha":1264241
 ,"Mairwa":1264282
 ,"Mainpuri":1264292
+,"Ahmedabad":1279233
 ,"Mainaguri":1264301
 ,"Maihar":1264317
 ,"Mahwah":1264323
@@ -754,7 +777,7 @@
 ,"Mahendragarh":1264395
 ,"Mahe":1264403
 ,"Mahbubabad":1264409
-,"StateofMaharashtra":1264418
+,"Maharashtra":1264418
 ,"Maharajganj":1264434
 ,"Maharajgani":1264436
 ,"Mahalingpur":1264457
@@ -909,7 +932,9 @@
 ,"Khambhat":1267090
 ,"Khamaria":1267097
 ,"Khallikot":1267112
-,"KhajurahoGroupofMonuments":1267154
+,"Visakhapatnam": 1253102
+,"Patna":1260086
+,"Khajuraho Group of Monuments":1267154
 ,"Khairagarh":1267174
 ,"Khair":1267182
 ,"Khagaul":1267187
@@ -917,7 +942,7 @@
 ,"Khada":1267202
 ,"Kesinga":1267222
 ,"Keshod":1267227
-,"StateofKerala":1267254
+,"Kerala":1267254
 ,"Kenduadih":1267280
 ,"Kenda":1267290
 ,"Kelwa":1267311
@@ -940,7 +965,7 @@
 ,"Karwar":1267635
 ,"Karumbakkam":1267660
 ,"Karsiyang":1267675
-,"StateofKarnataka":1267701
+,"Karnataka":1267701
 ,"Karmala":1267716
 ,"Karjat":1267742
 ,"Karimpur":1267754
@@ -977,6 +1002,7 @@
 ,"Kamalganj":1268276
 ,"Kamakhyanagar":1268279
 ,"Kalyan":1268295
+,"Vadodara":1253573
 ,"Kalugumalai":1268310
 ,"Kalpatta":1268327
 ,"Kalna":1268341
@@ -1012,7 +1038,11 @@
 ,"ShadipurJulana":1268785
 ,"Jubbal":1268802
 ,"Joshimath":1268814
+,"Shimla":1256237
+,"Assam":1278253
 ,"Jora":1268823
+,"Jalandhar":1268782
+,"Bhubaneswar":1261029
 ,"Jalarpet":1268834
 ,"Jogighopa":1268851
 ,"JodiyaBandar":1268863
@@ -1046,8 +1076,11 @@
 ,"Jangaon":1269256
 ,"Jandiala":1269269
 ,"Jamui":1269291
+,"Jamnagar":1269317
 ,"Jamshedpur":1269300
-,"StateofJammuandKashmir":1269320
+,"Jammu":1269321
+,"JammuandKashmir":1269320
+,"Kashmir":1269320
 ,"Jammalamadugu":1269323
 ,"Jambusar":1269350
 ,"Jamalpur":1269374
@@ -1066,12 +1099,14 @@
 ,"Jaisinghnagar":1269503
 ,"Jais":1269509
 ,"Jaipur":1269517
+,"Rajasthan":1269517
 ,"Jainpur":1269525
 ,"Jahangirpur":1269548
 ,"Jahangirabad":1269552
 ,"Jahanabad":1269557
 ,"Jagraon":1269564
 ,"Jaggayyapeta":1269570
+,"Gaya":1275389
 ,"Jagdalpur":1269578
 ,"Jagannathpur":1269592
 ,"Jagadhri":1269605
@@ -1083,6 +1118,7 @@
 ,"Irinjalakuda":1269693
 ,"Indri":1269731
 ,"Indore":1269743
+,"Pimpri":1259652
 ,"Indi":1269751
 ,"Indapur":1269761
 ,"Iluppur":1269782
@@ -1092,6 +1128,8 @@
 ,"Idappadi":1269819
 ,"Ichchapuram":1269827
 ,"Hyderabad":1269843
+,"Telangana":1269843
+,"Andhra Pradesh": 1269843
 ,"Hadagalli":1269849
 ,"Hunsur":1269873
 ,"Hukeri":1269908
@@ -1111,7 +1149,7 @@
 ,"Hingoli":1270072
 ,"Hindupur":1270079
 ,"Hindaun":1270090
-,"StateofHimachalPradesh":1270101
+,"Himachal Pradesh":1270101
 ,"Hesla":1270118
 ,"Hempur":1270138
 ,"Hazaribagh":1270164
@@ -1120,7 +1158,7 @@
 ,"Hata":1270232
 ,"Hassan":1270239
 ,"Hasanpur":1270251
-,"StateofHaryana":1270260
+,"Haryana":1270260
 ,"Harsud":1270271
 ,"Harpanahalli":1270287
 ,"Harnai":1270304
@@ -1144,18 +1182,21 @@
 ,"Gyanpur":1270576
 ,"Gwalior":1270583
 ,"Guskhara":1270598
+,"Guntur":1270668
 ,"GuruHarSahai":1270612
 ,"Gursahaiganj":1270619
 ,"Gurmatkal":1270627
 ,"Gurgaon":1270642
+,"Ulhasnagar":1253894
 ,"Gunupur":1270667
 ,"GuntakalJunction":1270670
 ,"Gunjrauliya":1270675
 ,"Guna":1270711
 ,"Gumla":1270722
 ,"Guledagudda":1270750
+,"Gulbarga":1270752
 ,"Gulaothi":1270759
-,"StateofGujarat":1270770
+,"Gujarat":1270770
 ,"Guhagar":1270779
 ,"Guduvancheri":1270787
 ,"Gudur":1270791
@@ -1184,7 +1225,7 @@
 ,"Godda":1271113
 ,"Gobindpur":1271131
 ,"GoaVelha":1271146
-,"UnionTerritoryofDamanandDiu":1271155
+,"DamanandDiu":1271155
 ,"Giridih":1271175
 ,"Gingee":1271199
 ,"Giddalur":1271213
@@ -1224,6 +1265,7 @@
 ,"Gadwal":1271819
 ,"Gadhada":1271839
 ,"Gadag":1271850
+,"Erode":1272013
 ,"Forbesganj":1271874
 ,"Ferozepore":1271883
 ,"Ferokh":1271888
@@ -1241,6 +1283,7 @@
 ,"Faizpur":1271975
 ,"Ettaiyapuram":1271984
 ,"Etah":1271992
+,"Etahwah":1271992
 ,"Erraguntla":1272008
 ,"Ernakulam":1272018
 ,"Eraniel":1272023
@@ -1252,6 +1295,7 @@
 ,"Dwarahat":1272145
 ,"Durgapur":1272175
 ,"Durg":1272181
+,"Ludhiyana":1264728
 ,"Dungarpur":1272202
 ,"Dumraon":1272225
 ,"Dumka":1272237
@@ -1320,6 +1364,7 @@
 ,"DelhiCantonment":1273292
 ,"Delhi":1273294
 ,"Dehri":1273309
+,"Dehradun":1273313
 ,"Debipur":1273347
 ,"Davorlim":1273367
 ,"Dausa":1273369
@@ -1346,7 +1391,9 @@
 ,"Daboh":1273756
 ,"Dabhoi":1273766
 ,"Cuttack":1273780
+,"Uttarakhand":1444366
 ,"Curchorem":1273788
+,"Vijaywada":1253184
 ,"Cumbum":1273795
 ,"Cuddalore":1273802
 ,"Coondapoor":1273834
@@ -1406,7 +1453,7 @@
 ,"Chandur":1274676
 ,"Chandrakona":1274699
 ,"Chandla":1274735
-,"UnionTerritoryofChandigarh":1274744
+,"Chandigarh":1274744
 ,"Chandia":1274747
 ,"Chandbali":1274761
 ,"Chandauli":1274770
@@ -1464,14 +1511,17 @@
 ,"Bijawar":1275694
 ,"Bihpuriagaon":1275713
 ,"BiharSharif":1275716
+,"Bihar":1260086
 ,"BighapurKhurd":1275722
 ,"Bidar":1275738
 ,"KilBhuvanagiri":1275768
 ,"Bhundsi":1275793
 ,"Bhuj":1275812
+,"Bhiwandi":1275901
 ,"Bhubaneshwar":1275817
 ,"Bhowali":1275826
 ,"Bhopal":1275841
+,"Madhya Pradesh":1275841
 ,"Bhongaon":1275849
 ,"Bhojudih":1275866
 ,"Bhiwani":1275899
@@ -1511,6 +1561,7 @@
 ,"Betma":1276400
 ,"Beswan":1276419
 ,"Berasia":1276449
+,"Belgaum":1276533
 ,"Beniganj":1276463
 ,"Bemetara":1276478
 ,"Belur":1276487
@@ -1641,7 +1692,7 @@
 ,"Asegaon":1278302
 ,"asansol":1278314
 ,"arvi":1278335
-,"StateofArunachalPradesh":1278341
+,"ArunachalPradesh":1278341
 ,"Arumbavur":1278344
 ,"Arsikere":1278354
 ,"Noria":1278373
@@ -1664,7 +1715,8 @@
 ,"Angamali":1278602
 ,"Andol":1278621
 ,"Andippatti":1278625
-,"UnionTerritoryofAndamanandNicobarIslands":1278647
+,"Navi Mumbai":6619347
+,"Andaman and Nicobar Islands":1278647
 ,"Anantapur":1278672
 ,"Anandnagar":1278682
 ,"Anakapalle":1278688
@@ -1672,6 +1724,8 @@
 ,"Amroli":1278707
 ,"Amritsar":1278710
 ,"Amravati":1278718
+,"Noida":1273293
+,"Okhala":1273293
 ,"Ammapettai":1278751
 ,"Amloh":1278758
 ,"amlagora":1278774
@@ -1694,6 +1748,8 @@
 ,"Alnavar":1278973
 ,"Alappuzha":1278985
 ,"Allahganj":1278990
+,"Allahabad":7038466
+,"Prayagraj":7038466
 ,"Alipur":1279005
 ,"Aligarh":1279017
 ,"Aliganj":1279023
