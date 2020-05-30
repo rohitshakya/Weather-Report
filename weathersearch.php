@@ -67,7 +67,7 @@ $apiKey = "231a533e913c7e004f7ea56e36a67d83";
 $cityId = $json[$country];
 if(!isset($cityId))
 {
-  header('Location: user.php');
+  header('Location: index.php');
 }
 $googleApiUrl = "http://api.openweathermap.org/data/2.5/weather?id=" . $cityId . "&lang=en&units=metric&APPID=" . $apiKey;
 
