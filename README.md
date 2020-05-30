@@ -24,12 +24,11 @@
 `index->user||index->failure`      
 `failure->user`      
 `user->index||user->weathersearch`         
-#### Data provided in part by OpenWeatherMap.org  
-
+ 
 ## Copyright and License
 
 Copyright 2020-2021 Rohit Shakya.
-
+#### Data provided in part by OpenWeatherMap.org 
   
 
   
