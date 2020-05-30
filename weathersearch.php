@@ -11,7 +11,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <title>UserPage</title>
+  <title>WeatherPage</title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="css/search.css">
@@ -29,11 +29,12 @@ session_start();
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php">Weather</a>
+      <a class="navbar-brand" href="index.php">Home</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-      </ul>
+        li><a href="#">Weather</a></li>
+      <li><a href="#">News</a></li>
      
     </div>
   </div>
