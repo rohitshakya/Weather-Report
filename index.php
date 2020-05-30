@@ -3,7 +3,7 @@
  * Date   : May-2020
  * Editor : Sublime text
  * Local server: Xampp
- * Title : Weather report using curl API-json into array 
+ * Title : v3.5 Weather report using curl API-json into array 
  -->
  <?php
   session_start();
@@ -29,10 +29,10 @@
 </body>
 </html>
 <?php
-$servername = "sql306.lockernerd.co.uk";
-$dbusername = "lnw_25895651";
-$password = "250m9qt8";
-$database="lnw_25895651_mydb";
+$servername = "localhost";
+$dbusername = "root";
+$password = "";
+$database="mydb";
 $name=$_POST['name'];
 $pass=$_POST['pass'];
 error_reporting ( E_ALL ) ;
@@ -48,7 +48,7 @@ if ($conn->connect_error) {
   
   $message="";
 if(count($_POST)>0) {
-   $result = mysqli_query($conn,"SELECT * FROM mydetails WHERE name='" . $_POST["name"] . "' and password = '". $_POST["pass"]."'");
+   $result = mysqli_query($conn,"SELECT * FROM user WHERE name='" . $_POST["name"] . "' and password = '". $_POST["pass"]."'");
    $count  = mysqli_num_rows($result);
    if($count==0) {
      header('Location: failure.php');
