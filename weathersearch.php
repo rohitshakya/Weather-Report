@@ -33,10 +33,10 @@ session_start();
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        li><a href="#">Weather</a></li>
-      <li><a href="#">News</a></li>
-     
-    </div>
+        <li><a href="weathersearch.php">Weather</a></li>
+      <li><a href="news.php">News</a></li>
+     </ul>
+     </div>
   </div>
 </nav>
 <!--Search Bar Form-->
