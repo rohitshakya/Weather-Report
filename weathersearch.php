@@ -7,8 +7,6 @@
  -->
 <?php
 session_start(); 
-if(!isset($_SESSION['username']))
-{header('Location: index.html');}
 ?> 
 
 <!DOCTYPE html>
@@ -32,13 +30,10 @@ if(!isset($_SESSION['username']))
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="user.php">Weather</a>
+      <a class="navbar-brand" href="index.php">Weather</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href=logout.php><span class="glyphicon glyphicon-log-in"></span> Log Out</a></li>
       </ul>
     </div>
   </div>
