@@ -23,7 +23,8 @@
 `flow`  
 `index->user||index->failure`      
 `failure->user`      
-`user->index||user->weathersearch`       
+`user->index||user->weathersearch`         
+#### Data provided in part by OpenWeatherMap.org
   
 
   
